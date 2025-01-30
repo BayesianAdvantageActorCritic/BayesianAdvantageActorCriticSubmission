@@ -1,6 +1,6 @@
 # Setup Guide
 This setup guide helps you to reproduce the results from the paper.
-The first part is a direct copy from the Setup Guide of the factor-graph framework's README.
+The Julia part is a direct copy from the Setup Guide of the factor-graph framework's README.
 Use a command line to `cd` into the repository.
 
 ## Python Setup
