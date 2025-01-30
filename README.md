@@ -22,7 +22,7 @@ python -m pipenv shell
 (On some systems, you must type `python3` instead of `python`.)
 Then, run
 ``` bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Run
